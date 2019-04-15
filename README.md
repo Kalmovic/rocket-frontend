@@ -1,6 +1,6 @@
 # Run the App:
 
-https://github.com/joaodanilo1992/omnistack---mobile.git
+https://omnistack-frntend.herokuapp.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
